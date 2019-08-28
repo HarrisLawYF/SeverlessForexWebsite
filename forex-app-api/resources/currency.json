@@ -1,0 +1,7 @@
+{"currency_data":[
+  {"src_id": 0, "dest_id": 1, "rate": 0, "src":"EUR", "dest":"USD"},
+  {"src_id": 0, "dest_id": 2, "rate": 0, "src":"EUR", "dest":"JPY"},
+  {"src_id": 1, "dest_id": 2, "rate": 0, "src":"USD", "dest":"JPY" },
+  {"src_id": 1, "dest_id": 0, "rate": 0, "src":"USD", "dest":"EUR" },
+  {"src_id": 2, "dest_id": 1, "rate": 0, "src":"JPY", "dest":"USD" },
+  {"src_id": 2, "dest_id": 0, "rate": 0, "src":"JPY", "dest":"EUR" } ]}
